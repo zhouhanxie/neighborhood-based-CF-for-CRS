@@ -2,7 +2,7 @@
 
 Implementation for NBCRS: Neighborhood-based Collaborative Filtering for Conversational Recommendation (Recsys 24). 
 
-The take away is KNN is a fairly strong baseline for CRS, too, esp when you don't have KGs or have a large dataset!
+The take away is KNN is a fairly strong baseline for CRS, too, esp when you don't have KGs or do have a large dataset!
 
 ### Should I use NBCRS?
 
